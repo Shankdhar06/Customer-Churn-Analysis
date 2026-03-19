@@ -138,7 +138,7 @@ An E-Commerce company is facing intense competition and struggling to retain exi
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-churn-analysis.git
+git clone https://github.com/Shankdhar06/customer-churn-analysis.git
 ```
 
 2. Install required libraries:
@@ -155,7 +155,7 @@ jupyter notebook Customer_Churn_Capstone_Project.ipynb
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vaibhav-shankdhar-0602/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Shankdhar06)
 
 ---
