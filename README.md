@@ -1,5 +1,5 @@
 # 📉 Customer Churn Analysis – E-Commerce Domain
-**Author:** Vaibhav Shankdhar | **Date:** July 3, 2022
+**Author:** Vaibhav Shankdhar | **Date:** July 3, 2024
 
 ---
 
