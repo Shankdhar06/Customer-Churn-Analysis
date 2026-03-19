@@ -1,5 +1,4 @@
 # 📉 Customer Churn Analysis – E-Commerce Domain
-### Capstone Project | Great Learning | August 2022 Batch (A4)
 **Author:** Vaibhav Shankdhar | **Date:** July 3, 2022
 
 ---
